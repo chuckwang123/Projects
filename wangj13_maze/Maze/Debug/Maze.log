@@ -1,0 +1,17 @@
+﻿Build started 10/26/2012 4:33:34 PM.
+     1>Project "C:\Users\chuck wang\Desktop\350\wangj13_maze\Maze\Maze.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\wangj_Maze.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Maze.vcxproj -> C:\Users\chuck wang\Desktop\350\wangj13_maze\Debug\wangj_Maze.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\wangj_Maze.unsuccessfulbuild".
+         Touching "Debug\wangj_Maze.lastbuildstate".
+     1>Done Building Project "C:\Users\chuck wang\Desktop\350\wangj13_maze\Maze\Maze.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

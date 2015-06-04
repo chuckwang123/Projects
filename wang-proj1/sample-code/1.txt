@@ -1,0 +1,5 @@
+the total number of ultrapeers is 19837
+the number of ultrapeers' response is 5001
+the number of leaves is 144210
+the time for crawling is 311644ms
+the average rate of crawling is 16.0472
